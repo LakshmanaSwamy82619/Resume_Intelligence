@@ -1,0 +1,17 @@
+Bob Smith
+bob.smith@example.com
++1-555-0200
+
+Summary
+Frontend developer with some backend experience.
+
+Skills
+JavaScript, React, HTML, CSS, Node.js
+
+Experience
+Frontend Developer, WebWorks Inc
+Mar 2022 - Present
+Built React components and improved site performance using JavaScript and CSS.
+
+Education
+B.A. Design, City College, 2021

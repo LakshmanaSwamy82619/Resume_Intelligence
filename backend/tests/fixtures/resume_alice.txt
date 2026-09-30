@@ -1,0 +1,32 @@
+Alice Johnson
+alice.johnson@example.com
++1-555-0100
+
+Summary
+Data scientist with a strong background in machine learning and backend engineering.
+
+Skills
+Python, SQL, Machine Learning, NLP, PyTorch, Pandas, AWS, Docker
+
+Experience
+Machine Learning Engineer, Acme Analytics
+Jan 2021 - Present
+Built and deployed NLP models for customer support ticket classification using Python and PyTorch.
+Designed SQL pipelines to process 10 million records daily on AWS.
+
+Data Analyst, BetaCorp
+Jun 2019 - Dec 2020
+Used Python and SQL to analyze marketing data and build dashboards.
+
+Projects
+Customer Churn Prediction
+Built a churn prediction model using Python, Scikit-learn and SQL, deployed via Docker on AWS.
+
+Resume Matching NLP System
+Developed an NLP-based resume matching prototype using PyTorch and transformers.
+
+Education
+B.Tech Computer Science, State University, 2019
+
+Certifications
+AWS Certified Machine Learning

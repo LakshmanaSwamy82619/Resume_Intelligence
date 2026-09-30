@@ -1,0 +1,930 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R 17 0 R] /Count 7 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 1533 >>
+stream
+0.035 0.055 0.1 rg
+0 0 960 540 re f
+0.35 0.83 0.84 rg
+BT
+/F1 10 Tf
+48 502 Td
+(00:00-00:40 | OPENING) Tj
+ET
+0.92 0.95 1.0 rg
+BT
+/F1 28 Tf
+48 458 Td
+(Evidence-led candidate matching) Tj
+ET
+0.1 0.14 0.22 RG
+1 w
+48 438 m 912 438 l S
+0.35 0.83 0.84 rg
+BT
+/F1 9 Tf
+52 405 Td
+(PANEL FLOW) Tj
+ET
+0.92 0.95 1.0 rg
+BT
+/F1 16 Tf
+52 374 Td
+(The problem) Tj
+ET
+0.64 0.7 0.81 rg
+BT
+/F1 11 Tf
+68 352 Td
+(Recruiters need a shortlist they can inspect, with) Tj
+ET
+0.64 0.7 0.81 rg
+BT
+/F1 11 Tf
+68 336 Td
+(evidence behind every requirement.) Tj
+ET
+0.92 0.95 1.0 rg
+BT
+/F1 16 Tf
+52 306 Td
+(The product) Tj
+ET
+0.64 0.7 0.81 rg
+BT
+/F1 11 Tf
+68 284 Td
+(Resume Intelligence combines hybrid retrieval, structured) Tj
+ET
+0.64 0.7 0.81 rg
+BT
+/F1 11 Tf
+68 268 Td
+(skill-gap analysis, and source-linked explanations.) Tj
+ET
+0.92 0.95 1.0 rg
+BT
+/F1 16 Tf
+52 238 Td
+(The guardrail) Tj
+ET
+0.64 0.7 0.81 rg
+BT
+/F1 11 Tf
+68 216 Td
+(Scores support recruiter review; they are not automated) Tj
+ET
+0.64 0.7 0.81 rg
+BT
+/F1 11 Tf
+68 200 Td
+(hiring decisions.) Tj
+ET
+0.075 0.105 0.17 rg
+0.1 0.14 0.22 RG 1 w
+620 170 288 232 re B
+0.35 0.83 0.84 rg
+620 397 288 5 re f
+0.92 0.95 1.0 rg
+BT
+/F1 15 Tf
+634 373 Td
+(SAY) Tj
+ET
+0.64 0.7 0.81 rg
+BT
+/F1 10 Tf
+634 351 Td
+(Show the login / workspace.) Tj
+ET
+0.64 0.7 0.81 rg
+BT
+/F1 10 Tf
+634 333 Td
+(Explain the decision-support goal.) Tj
+ET
+0.64 0.7 0.81 rg
+BT
+/F1 10 Tf
+634 315 Td
+(Set expectation: traceable matching, human decision.) Tj
+ET
+0.64 0.7 0.81 rg
+BT
+/F1 9 Tf
+48 28 Td
+(01  |  10-MINUTE PRESENTATION  |  DEMO + Q&A) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 960 540] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 1626 >>
+stream
+0.035 0.055 0.1 rg
+0 0 960 540 re f
+0.35 0.83 0.84 rg
+BT
+/F1 10 Tf
+48 502 Td
+(00:40-01:45 | ARCHITECTURE) Tj
+ET
+0.92 0.95 1.0 rg
+BT
+/F1 28 Tf
+48 458 Td
+(One pipeline from document to evidence) Tj
+ET
+0.1 0.14 0.22 RG
+1 w
+48 438 m 912 438 l S
+0.35 0.83 0.84 rg
+BT
+/F1 9 Tf
+52 405 Td
+(PANEL FLOW) Tj
+ET
+0.92 0.95 1.0 rg
+BT
+/F1 16 Tf
+52 374 Td
+(Prepare) Tj
+ET
+0.64 0.7 0.81 rg
+BT
+/F1 11 Tf
+68 352 Td
+(Parse PDF, DOCX, or TXT; structure candidate facts; chunk) Tj
+ET
+0.64 0.7 0.81 rg
+BT
+/F1 11 Tf
+68 336 Td
+(and embed resume text.) Tj
+ET
+0.92 0.95 1.0 rg
+BT
+/F1 16 Tf
+52 306 Td
+(Find) Tj
+ET
+0.64 0.7 0.81 rg
+BT
+/F1 11 Tf
+68 284 Td
+(Understand job requirements, retrieve candidates with) Tj
+ET
+0.64 0.7 0.81 rg
+BT
+/F1 11 Tf
+68 268 Td
+(lexical and semantic signals, then rerank.) Tj
+ET
+0.92 0.95 1.0 rg
+BT
+/F1 16 Tf
+52 238 Td
+(Explain) Tj
+ET
+0.64 0.7 0.81 rg
+BT
+/F1 11 Tf
+68 216 Td
+(Matching, skill-gap, and qualification stages produce) Tj
+ET
+0.64 0.7 0.81 rg
+BT
+/F1 11 Tf
+68 200 Td
+(statuses and evidence for each result.) Tj
+ET
+0.075 0.105 0.17 rg
+0.1 0.14 0.22 RG 1 w
+620 170 288 232 re B
+0.35 0.83 0.84 rg
+620 397 288 5 re f
+0.92 0.95 1.0 rg
+BT
+/F1 15 Tf
+634 373 Td
+(POINT TO) Tj
+ET
+0.64 0.7 0.81 rg
+BT
+/F1 10 Tf
+634 351 Td
+(Resume and job brief ingestion) Tj
+ET
+0.64 0.7 0.81 rg
+BT
+/F1 10 Tf
+634 333 Td
+(PostgreSQL / pgvector plus evidence records) Tj
+ET
+0.64 0.7 0.81 rg
+BT
+/F1 10 Tf
+634 315 Td
+(Fallback chains for unavailable AI providers) Tj
+ET
+0.64 0.7 0.81 rg
+BT
+/F1 10 Tf
+634 297 Td
+(Full diagram: architecture-diagram.pdf) Tj
+ET
+0.64 0.7 0.81 rg
+BT
+/F1 9 Tf
+48 28 Td
+(02  |  10-MINUTE PRESENTATION  |  DEMO + Q&A) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 960 540] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 1455 >>
+stream
+0.035 0.055 0.1 rg
+0 0 960 540 re f
+0.35 0.83 0.84 rg
+BT
+/F1 10 Tf
+48 502 Td
+(01:45-02:30 | SETUP) Tj
+ET
+0.92 0.95 1.0 rg
+BT
+/F1 28 Tf
+48 458 Td
+(A recruiter flow in the workspace) Tj
+ET
+0.1 0.14 0.22 RG
+1 w
+48 438 m 912 438 l S
+0.35 0.83 0.84 rg
+BT
+/F1 9 Tf
+52 405 Td
+(PANEL FLOW) Tj
+ET
+0.92 0.95 1.0 rg
+BT
+/F1 16 Tf
+52 374 Td
+(Create a brief) Tj
+ET
+0.64 0.7 0.81 rg
+BT
+/F1 11 Tf
+68 352 Td
+(Paste requirements or upload a PDF, DOCX, or TXT file.) Tj
+ET
+0.92 0.95 1.0 rg
+BT
+/F1 16 Tf
+52 322 Td
+(Choose a search) Tj
+ET
+0.64 0.7 0.81 rg
+BT
+/F1 11 Tf
+68 300 Td
+(Run a Top 3 or Top 5 shortlist with a saved brief or) Tj
+ET
+0.64 0.7 0.81 rg
+BT
+/F1 11 Tf
+68 284 Td
+(natural-language query.) Tj
+ET
+0.92 0.95 1.0 rg
+BT
+/F1 16 Tf
+52 254 Td
+(Inspect the result) Tj
+ET
+0.64 0.7 0.81 rg
+BT
+/F1 11 Tf
+68 232 Td
+(Open a candidate, compare profiles, and review matched,) Tj
+ET
+0.64 0.7 0.81 rg
+BT
+/F1 11 Tf
+68 216 Td
+(partial, and missing requirements.) Tj
+ET
+0.075 0.105 0.17 rg
+0.1 0.14 0.22 RG 1 w
+620 170 288 232 re B
+0.35 0.83 0.84 rg
+620 397 288 5 re f
+0.92 0.95 1.0 rg
+BT
+/F1 15 Tf
+634 373 Td
+(DEMO) Tj
+ET
+0.64 0.7 0.81 rg
+BT
+/F1 10 Tf
+634 351 Td
+(Open Jobs and show upload input.) Tj
+ET
+0.64 0.7 0.81 rg
+BT
+/F1 10 Tf
+634 333 Td
+(Open Search and select a brief.) Tj
+ET
+0.64 0.7 0.81 rg
+BT
+/F1 10 Tf
+634 315 Td
+(Keep one known candidate for the evidence walkthrough.) Tj
+ET
+0.64 0.7 0.81 rg
+BT
+/F1 9 Tf
+48 28 Td
+(03  |  10-MINUTE PRESENTATION  |  DEMO + Q&A) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 960 540] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 1880 >>
+stream
+0.035 0.055 0.1 rg
+0 0 960 540 re f
+0.35 0.83 0.84 rg
+BT
+/F1 10 Tf
+48 502 Td
+(02:30-05:40 | DEMO) Tj
+ET
+0.92 0.95 1.0 rg
+BT
+/F1 28 Tf
+48 458 Td
+(Live shortlist: follow one candidate) Tj
+ET
+0.1 0.14 0.22 RG
+1 w
+48 438 m 912 438 l S
+0.35 0.83 0.84 rg
+BT
+/F1 9 Tf
+52 405 Td
+(PANEL FLOW) Tj
+ET
+0.92 0.95 1.0 rg
+BT
+/F1 16 Tf
+52 374 Td
+(Start the query) Tj
+ET
+0.64 0.7 0.81 rg
+BT
+/F1 11 Tf
+68 352 Td
+(Use a prepared brief with a clear mandatory skill and) Tj
+ET
+0.64 0.7 0.81 rg
+BT
+/F1 11 Tf
+68 336 Td
+(experience requirement.) Tj
+ET
+0.92 0.95 1.0 rg
+BT
+/F1 16 Tf
+52 306 Td
+(Read the shortlist) Tj
+ET
+0.64 0.7 0.81 rg
+BT
+/F1 11 Tf
+68 284 Td
+(Show score breakdown, candidate rank, and) Tj
+ET
+0.64 0.7 0.81 rg
+BT
+/F1 11 Tf
+68 268 Td
+(retrieval/fallback status.) Tj
+ET
+0.92 0.95 1.0 rg
+BT
+/F1 16 Tf
+52 238 Td
+(Verify the explanation) Tj
+ET
+0.64 0.7 0.81 rg
+BT
+/F1 11 Tf
+68 216 Td
+(Open matched and partial skills; inspect quoted source) Tj
+ET
+0.64 0.7 0.81 rg
+BT
+/F1 11 Tf
+68 200 Td
+(text and page/source file.) Tj
+ET
+0.92 0.95 1.0 rg
+BT
+/F1 16 Tf
+52 170 Td
+(Review risk) Tj
+ET
+0.64 0.7 0.81 rg
+BT
+/F1 11 Tf
+68 148 Td
+(Show missing requirements and any validation flag; explain) Tj
+ET
+0.64 0.7 0.81 rg
+BT
+/F1 11 Tf
+68 132 Td
+(that absent evidence is not proof of absence.) Tj
+ET
+0.075 0.105 0.17 rg
+0.1 0.14 0.22 RG 1 w
+620 170 288 232 re B
+0.35 0.83 0.84 rg
+620 397 288 5 re f
+0.92 0.95 1.0 rg
+BT
+/F1 15 Tf
+634 373 Td
+(DEMO CHECKPOINTS) Tj
+ET
+0.64 0.7 0.81 rg
+BT
+/F1 10 Tf
+634 351 Td
+(Results view: top candidates) Tj
+ET
+0.64 0.7 0.81 rg
+BT
+/F1 10 Tf
+634 333 Td
+(Candidate detail: evidence and page) Tj
+ET
+0.64 0.7 0.81 rg
+BT
+/F1 10 Tf
+634 315 Td
+(Compare: side-by-side requirements) Tj
+ET
+0.64 0.7 0.81 rg
+BT
+/F1 10 Tf
+634 297 Td
+(Mention education time is excluded from experience totals.) Tj
+ET
+0.64 0.7 0.81 rg
+BT
+/F1 9 Tf
+48 28 Td
+(04  |  10-MINUTE PRESENTATION  |  DEMO + Q&A) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 960 540] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 1891 >>
+stream
+0.035 0.055 0.1 rg
+0 0 960 540 re f
+0.35 0.83 0.84 rg
+BT
+/F1 10 Tf
+48 502 Td
+(05:40-06:50 | EVALUATION) Tj
+ET
+0.92 0.95 1.0 rg
+BT
+/F1 28 Tf
+48 458 Td
+(Quality is measured against human labels) Tj
+ET
+0.1 0.14 0.22 RG
+1 w
+48 438 m 912 438 l S
+0.35 0.83 0.84 rg
+BT
+/F1 9 Tf
+52 405 Td
+(PANEL FLOW) Tj
+ET
+0.92 0.95 1.0 rg
+BT
+/F1 16 Tf
+52 374 Td
+(Build ground truth) Tj
+ET
+0.64 0.7 0.81 rg
+BT
+/F1 11 Tf
+68 352 Td
+(Label query/candidate relevance and optional expected) Tj
+ET
+0.64 0.7 0.81 rg
+BT
+/F1 11 Tf
+68 336 Td
+(skill states: matched, partial, missing.) Tj
+ET
+0.92 0.95 1.0 rg
+BT
+/F1 16 Tf
+52 306 Td
+(Run the same pipeline) Tj
+ET
+0.64 0.7 0.81 rg
+BT
+/F1 11 Tf
+68 284 Td
+(Evaluation executes the live search path; unlabelled) Tj
+ET
+0.64 0.7 0.81 rg
+BT
+/F1 11 Tf
+68 268 Td
+(queries are reported as skipped.) Tj
+ET
+0.92 0.95 1.0 rg
+BT
+/F1 16 Tf
+52 238 Td
+(Read the metrics) Tj
+ET
+0.64 0.7 0.81 rg
+BT
+/F1 11 Tf
+68 216 Td
+(Ranking: precision@K, recall@K, MRR, NDCG. Skill gaps:) Tj
+ET
+0.64 0.7 0.81 rg
+BT
+/F1 11 Tf
+68 200 Td
+(accuracy and per-class precision/recall/F1.) Tj
+ET
+0.92 0.95 1.0 rg
+BT
+/F1 16 Tf
+52 170 Td
+(Check grounding) Tj
+ET
+0.64 0.7 0.81 rg
+BT
+/F1 11 Tf
+68 148 Td
+(Evidence claims are compared to persisted source evidence;) Tj
+ET
+0.64 0.7 0.81 rg
+BT
+/F1 11 Tf
+68 132 Td
+(report support rate and flagged results.) Tj
+ET
+0.075 0.105 0.17 rg
+0.1 0.14 0.22 RG 1 w
+620 170 288 232 re B
+0.35 0.83 0.84 rg
+620 397 288 5 re f
+0.92 0.95 1.0 rg
+BT
+/F1 15 Tf
+634 373 Td
+(BE TRANSPARENT) Tj
+ET
+0.64 0.7 0.81 rg
+BT
+/F1 10 Tf
+634 351 Td
+(Metrics reflect only supplied labels and evaluated outputs.) Tj
+ET
+0.64 0.7 0.81 rg
+BT
+/F1 10 Tf
+634 333 Td
+(No labels means no fabricated accuracy.) Tj
+ET
+0.64 0.7 0.81 rg
+BT
+/F1 10 Tf
+634 315 Td
+(Use a representative labeled dataset for meaningful metrics.) Tj
+ET
+0.64 0.7 0.81 rg
+BT
+/F1 9 Tf
+48 28 Td
+(05  |  10-MINUTE PRESENTATION  |  DEMO + Q&A) Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 960 540] /Resources << /Font << /F1 3 0 R >> >> /Contents 12 0 R >>
+endobj
+14 0 obj
+<< /Length 1796 >>
+stream
+0.035 0.055 0.1 rg
+0 0 960 540 re f
+0.35 0.83 0.84 rg
+BT
+/F1 10 Tf
+48 502 Td
+(06:50-07:35 | DESIGN) Tj
+ET
+0.92 0.95 1.0 rg
+BT
+/F1 28 Tf
+48 458 Td
+(Tradeoffs, guardrails, and limits) Tj
+ET
+0.1 0.14 0.22 RG
+1 w
+48 438 m 912 438 l S
+0.35 0.83 0.84 rg
+BT
+/F1 9 Tf
+52 405 Td
+(PANEL FLOW) Tj
+ET
+0.92 0.95 1.0 rg
+BT
+/F1 16 Tf
+52 374 Td
+(Retrieval tradeoff) Tj
+ET
+0.64 0.7 0.81 rg
+BT
+/F1 11 Tf
+68 352 Td
+(Hybrid lexical + semantic improves recall; reranking costs) Tj
+ET
+0.64 0.7 0.81 rg
+BT
+/F1 11 Tf
+68 336 Td
+(additional time and compute.) Tj
+ET
+0.92 0.95 1.0 rg
+BT
+/F1 16 Tf
+52 306 Td
+(Reliability) Tj
+ET
+0.64 0.7 0.81 rg
+BT
+/F1 11 Tf
+68 284 Td
+(Provider chains fall back to local/deterministic paths; UI) Tj
+ET
+0.64 0.7 0.81 rg
+BT
+/F1 11 Tf
+68 268 Td
+(and API expose fallback status.) Tj
+ET
+0.92 0.95 1.0 rg
+BT
+/F1 16 Tf
+52 238 Td
+(Traceability) Tj
+ET
+0.64 0.7 0.81 rg
+BT
+/F1 11 Tf
+68 216 Td
+(Store evidence links and validation notes with each result) Tj
+ET
+0.64 0.7 0.81 rg
+BT
+/F1 11 Tf
+68 200 Td
+(for recruiter review.) Tj
+ET
+0.92 0.95 1.0 rg
+BT
+/F1 16 Tf
+52 170 Td
+(Known limits) Tj
+ET
+0.64 0.7 0.81 rg
+BT
+/F1 11 Tf
+68 148 Td
+(Gateway embedding compatibility needs confirmation;) Tj
+ET
+0.64 0.7 0.81 rg
+BT
+/F1 11 Tf
+68 132 Td
+(evaluate on your own consented corpus.) Tj
+ET
+0.075 0.105 0.17 rg
+0.1 0.14 0.22 RG 1 w
+620 170 288 232 re B
+0.35 0.83 0.84 rg
+620 397 288 5 re f
+0.92 0.95 1.0 rg
+BT
+/F1 15 Tf
+634 373 Td
+(DESIGN CHOICES) Tj
+ET
+0.64 0.7 0.81 rg
+BT
+/F1 10 Tf
+634 351 Td
+(Recall first, then rerank a bounded pool.) Tj
+ET
+0.64 0.7 0.81 rg
+BT
+/F1 10 Tf
+634 333 Td
+(Keep source evidence alongside extracted fields.) Tj
+ET
+0.64 0.7 0.81 rg
+BT
+/F1 10 Tf
+634 315 Td
+(Human review stays in the loop.) Tj
+ET
+0.64 0.7 0.81 rg
+BT
+/F1 9 Tf
+48 28 Td
+(06  |  10-MINUTE PRESENTATION  |  DEMO + Q&A) Tj
+ET
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 960 540] /Resources << /Font << /F1 3 0 R >> >> /Contents 14 0 R >>
+endobj
+16 0 obj
+<< /Length 1414 >>
+stream
+0.035 0.055 0.1 rg
+0 0 960 540 re f
+0.35 0.83 0.84 rg
+BT
+/F1 10 Tf
+48 502 Td
+(07:35-08:00 | HANDOFF) Tj
+ET
+0.92 0.95 1.0 rg
+BT
+/F1 28 Tf
+48 458 Td
+(Close and invite questions) Tj
+ET
+0.1 0.14 0.22 RG
+1 w
+48 438 m 912 438 l S
+0.35 0.83 0.84 rg
+BT
+/F1 9 Tf
+52 405 Td
+(PANEL FLOW) Tj
+ET
+0.92 0.95 1.0 rg
+BT
+/F1 16 Tf
+52 374 Td
+(Recap) Tj
+ET
+0.64 0.7 0.81 rg
+BT
+/F1 11 Tf
+68 352 Td
+(The system turns resumes and role context into a ranked,) Tj
+ET
+0.64 0.7 0.81 rg
+BT
+/F1 11 Tf
+68 336 Td
+(evidence-linked shortlist.) Tj
+ET
+0.92 0.95 1.0 rg
+BT
+/F1 16 Tf
+52 306 Td
+(Show next) Tj
+ET
+0.64 0.7 0.81 rg
+BT
+/F1 11 Tf
+68 284 Td
+(Open the architecture PDF and README setup/sample-use) Tj
+ET
+0.64 0.7 0.81 rg
+BT
+/F1 11 Tf
+68 268 Td
+(sections.) Tj
+ET
+0.92 0.95 1.0 rg
+BT
+/F1 16 Tf
+52 238 Td
+(Q&A) Tj
+ET
+0.64 0.7 0.81 rg
+BT
+/F1 11 Tf
+68 216 Td
+(Reserve the final two minutes for panel questions.) Tj
+ET
+0.075 0.105 0.17 rg
+0.1 0.14 0.22 RG 1 w
+620 170 288 232 re B
+0.35 0.83 0.84 rg
+620 397 288 5 re f
+0.92 0.95 1.0 rg
+BT
+/F1 15 Tf
+634 373 Td
+(Q&A | 08:00-10:00) Tj
+ET
+0.64 0.7 0.81 rg
+BT
+/F1 10 Tf
+634 351 Td
+(How do you evaluate match quality?) Tj
+ET
+0.64 0.7 0.81 rg
+BT
+/F1 10 Tf
+634 333 Td
+(What happens when an AI provider is unavailable?) Tj
+ET
+0.64 0.7 0.81 rg
+BT
+/F1 10 Tf
+634 315 Td
+(How do recruiters verify an explanation?) Tj
+ET
+0.64 0.7 0.81 rg
+BT
+/F1 9 Tf
+48 28 Td
+(07  |  10-MINUTE PRESENTATION  |  DEMO + Q&A) Tj
+ET
+endstream
+endobj
+17 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 960 540] /Resources << /Font << /F1 3 0 R >> >> /Contents 16 0 R >>
+endobj
+xref
+0 18
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000161 00000 n 
+0000000231 00000 n 
+0000001816 00000 n 
+0000001942 00000 n 
+0000003620 00000 n 
+0000003746 00000 n 
+0000005253 00000 n 
+0000005379 00000 n 
+0000007312 00000 n 
+0000007440 00000 n 
+0000009384 00000 n 
+0000009512 00000 n 
+0000011361 00000 n 
+0000011489 00000 n 
+0000012956 00000 n 
+trailer
+<< /Size 18 /Root 1 0 R >>
+startxref
+13084
+%%EOF

@@ -1,0 +1,325 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4148 >>
+stream
+0.035 0.055 0.1 rg
+0 0 960 540 re f
+0.35 0.83 0.84 rg
+BT
+/F1 10 Tf
+48 502 Td
+(ARCHITECTURE | END-TO-END REQUEST PATH) Tj
+ET
+0.92 0.95 1.0 rg
+BT
+/F1 28 Tf
+48 458 Td
+(System architecture and data flow) Tj
+ET
+0.1 0.14 0.22 RG
+1 w
+48 438 m 912 438 l S
+0.075 0.105 0.17 rg
+0.1 0.14 0.22 RG 1 w
+48 320 190 82 re B
+0.35 0.83 0.84 rg
+48 397 190 5 re f
+0.92 0.95 1.0 rg
+BT
+/F1 15 Tf
+62 373 Td
+(Inputs) Tj
+ET
+0.64 0.7 0.81 rg
+BT
+/F1 10 Tf
+62 351 Td
+(Resume PDF / DOCX / TXT) Tj
+ET
+0.64 0.7 0.81 rg
+BT
+/F1 10 Tf
+62 333 Td
+(Job brief file or text) Tj
+ET
+0.075 0.105 0.17 rg
+0.1 0.14 0.22 RG 1 w
+278 320 190 82 re B
+0.45 0.62 1.0 rg
+278 397 190 5 re f
+0.92 0.95 1.0 rg
+BT
+/F1 15 Tf
+292 373 Td
+(Ingestion + structuring) Tj
+ET
+0.64 0.7 0.81 rg
+BT
+/F1 10 Tf
+292 351 Td
+(Parse / OCR / normalize) Tj
+ET
+0.64 0.7 0.81 rg
+BT
+/F1 10 Tf
+292 333 Td
+(Chunk + embed + evidence) Tj
+ET
+0.075 0.105 0.17 rg
+0.1 0.14 0.22 RG 1 w
+508 320 190 82 re B
+0.98 0.72 0.36 rg
+508 397 190 5 re f
+0.92 0.95 1.0 rg
+BT
+/F1 15 Tf
+522 373 Td
+(Persistent data) Tj
+ET
+0.64 0.7 0.81 rg
+BT
+/F1 10 Tf
+522 351 Td
+(PostgreSQL + pgvector) Tj
+ET
+0.64 0.7 0.81 rg
+BT
+/F1 10 Tf
+522 333 Td
+(Candidate / resume / evidence) Tj
+ET
+0.075 0.105 0.17 rg
+0.1 0.14 0.22 RG 1 w
+738 320 174 82 re B
+0.35 0.83 0.84 rg
+738 397 174 5 re f
+0.92 0.95 1.0 rg
+BT
+/F1 15 Tf
+752 373 Td
+(Recruiter workspace) Tj
+ET
+0.64 0.7 0.81 rg
+BT
+/F1 10 Tf
+752 351 Td
+(Briefs / shortlist) Tj
+ET
+0.64 0.7 0.81 rg
+BT
+/F1 10 Tf
+752 333 Td
+(Evidence / compare) Tj
+ET
+0.35 0.83 0.84 RG
+2 w
+238 360 m 278 360 l S
+0.35 0.83 0.84 RG
+2 w
+271 364 m 278 360 l S
+0.35 0.83 0.84 RG
+2 w
+271 356 m 278 360 l S
+0.35 0.83 0.84 RG
+2 w
+468 360 m 508 360 l S
+0.35 0.83 0.84 RG
+2 w
+501 364 m 508 360 l S
+0.35 0.83 0.84 RG
+2 w
+501 356 m 508 360 l S
+0.35 0.83 0.84 RG
+2 w
+698 360 m 738 360 l S
+0.35 0.83 0.84 RG
+2 w
+731 364 m 738 360 l S
+0.35 0.83 0.84 RG
+2 w
+731 356 m 738 360 l S
+0.075 0.105 0.17 rg
+0.1 0.14 0.22 RG 1 w
+90 172 220 92 re B
+0.98 0.72 0.36 rg
+90 259 220 5 re f
+0.92 0.95 1.0 rg
+BT
+/F1 15 Tf
+104 235 Td
+(Requirement understanding) Tj
+ET
+0.64 0.7 0.81 rg
+BT
+/F1 10 Tf
+104 213 Td
+(Mandatory / preferred) Tj
+ET
+0.64 0.7 0.81 rg
+BT
+/F1 10 Tf
+104 195 Td
+(Experience + skill extraction) Tj
+ET
+0.075 0.105 0.17 rg
+0.1 0.14 0.22 RG 1 w
+370 172 220 92 re B
+0.45 0.62 1.0 rg
+370 259 220 5 re f
+0.92 0.95 1.0 rg
+BT
+/F1 15 Tf
+384 235 Td
+(Hybrid retrieval) Tj
+ET
+0.64 0.7 0.81 rg
+BT
+/F1 10 Tf
+384 213 Td
+(Lexical + semantic) Tj
+ET
+0.64 0.7 0.81 rg
+BT
+/F1 10 Tf
+384 195 Td
+(Metadata filtering) Tj
+ET
+0.075 0.105 0.17 rg
+0.1 0.14 0.22 RG 1 w
+650 172 220 92 re B
+0.35 0.83 0.84 rg
+650 259 220 5 re f
+0.92 0.95 1.0 rg
+BT
+/F1 15 Tf
+664 235 Td
+(Rank + explain) Tj
+ET
+0.64 0.7 0.81 rg
+BT
+/F1 10 Tf
+664 213 Td
+(Rerank + matching agents) Tj
+ET
+0.64 0.7 0.81 rg
+BT
+/F1 10 Tf
+664 195 Td
+(Gap / qualification / evidence) Tj
+ET
+0.35 0.83 0.84 RG
+2 w
+310 218 m 370 218 l S
+0.35 0.83 0.84 RG
+2 w
+363 222 m 370 218 l S
+0.35 0.83 0.84 RG
+2 w
+363 214 m 370 218 l S
+0.35 0.83 0.84 RG
+2 w
+590 218 m 650 218 l S
+0.35 0.83 0.84 RG
+2 w
+643 222 m 650 218 l S
+0.35 0.83 0.84 RG
+2 w
+643 214 m 650 218 l S
+0.1 0.14 0.22 RG
+1 w
+810 320 m 810 264 l S
+0.35 0.83 0.84 RG
+2 w
+810 264 m 760 264 l S
+0.35 0.83 0.84 RG
+2 w
+753 268 m 760 264 l S
+0.35 0.83 0.84 RG
+2 w
+753 260 m 760 264 l S
+0.075 0.105 0.17 rg
+0.1 0.14 0.22 RG 1 w
+160 64 250 66 re B
+0.98 0.72 0.36 rg
+160 125 250 5 re f
+0.92 0.95 1.0 rg
+BT
+/F1 15 Tf
+174 101 Td
+(Resilience controls) Tj
+ET
+0.64 0.7 0.81 rg
+BT
+/F1 10 Tf
+174 79 Td
+(Provider chains, fallback, validation flags) Tj
+ET
+0.075 0.105 0.17 rg
+0.1 0.14 0.22 RG 1 w
+560 64 250 66 re B
+0.35 0.83 0.84 rg
+560 125 250 5 re f
+0.92 0.95 1.0 rg
+BT
+/F1 15 Tf
+574 101 Td
+(Quality loop) Tj
+ET
+0.64 0.7 0.81 rg
+BT
+/F1 10 Tf
+574 79 Td
+(Human relevance + skill labels) Tj
+ET
+0.64 0.7 0.81 rg
+BT
+/F1 10 Tf
+574 61 Td
+(P@K / NDCG / F1 / evidence support) Tj
+ET
+0.35 0.83 0.84 RG
+2 w
+760 172 m 685 130 l S
+0.35 0.83 0.84 RG
+2 w
+678 134 m 685 130 l S
+0.35 0.83 0.84 RG
+2 w
+678 126 m 685 130 l S
+0.35 0.83 0.84 RG
+2 w
+410 97 m 560 97 l S
+0.64 0.7 0.81 rg
+BT
+/F1 9 Tf
+48 24 Td
+(Each returned match retains requirement status, score details, source text, page, and validation state.) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 960 540] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000121 00000 n 
+0000000191 00000 n 
+0000004391 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+4517
+%%EOF
